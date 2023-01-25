@@ -6,6 +6,8 @@ Revisar los conceptos y trabajos de las ondas sinusoidales
 
 MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/116833736/214490828-b7d291bf-494c-4229-abd8-7da609ad0bf5.png)
+![image](https://user-images.githubusercontent.com/116833736/214490780-bed44af8-764a-4be8-aad5-d16720110107.png)
 
 
 EJERCICIOS
